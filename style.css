@@ -341,6 +341,7 @@ header > .navbar > a:hover {
     border-radius: 0.5rem;
     text-transform: none;
     width: 49%;
+    font-family: inherit;
 }
 
 .order > .row > form > textarea {
